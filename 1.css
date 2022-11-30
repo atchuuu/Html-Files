@@ -1,0 +1,9 @@
+table,th,td
+{
+    border:1px solid;
+    border-collapse: collapse;
+    border-color: rgb(10, 10, 9);
+}
+td:hover{
+    background-color: blue;
+    zoom:1.5;}

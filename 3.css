@@ -1,0 +1,41 @@
+body{
+  background-image: url('3.jpg');
+}
+#one{
+    color: rgb(255, 14, 14);
+    text-align: center;
+    text-size-adjust: 100cm;
+    border:20px solid ;
+    padding: 50px;
+    margin: 50px;
+}
+    #two{
+        color: rgb(158, 2, 2);
+        text-align: center;
+        border:20px solid ;
+    padding: 50px;
+    margin: 50px;
+        }
+        #three{
+            color: rgb(135, 53, 23);
+            text-align: center;
+            border:20px solid ;
+    padding: 50px;
+    margin: 50px solid;
+            }
+            #four{
+                color:rgb(247, 163, 8);
+                text-align: center;
+                border:20px solid ;
+    padding: 50px;
+    margin: 50px;
+                }
+                #five{
+                    color: rgb(240, 9, 9);
+                    text-align: center;
+                    border:20px solid ;
+    padding: 50px;
+    margin: 50px;}
+p:hover{
+background-color: antiquewhite;
+}
